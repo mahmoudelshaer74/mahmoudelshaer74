@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Mohsen</h1>
-<h3 align="center">Interested in data science and artificial intelligence</h3>
+<h3 align="center">Interested in Data Science and Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudelshaer74&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudelshaer74" /> </p>
 
