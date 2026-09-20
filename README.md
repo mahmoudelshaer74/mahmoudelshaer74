@@ -10,22 +10,9 @@
 - 👨‍💻 All of my projects are available at [www.kaggle.com/mahmoudmelshaer/code](www.kaggle.com/mahmoudmelshaer/code)
 
 - 📫 How to reach me **mahmoudelshaer727@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com" target="_blank">
-  <img align="center" src="https://githubusercontent.com" alt="melshaer_74" height="40" width="40" />
-</a>
-<a href="https://kaggle.com" target="_blank">
-  <img align="center" src="https://githubusercontent.com" alt="mahmoudmelshaer" height="40" width="40" />
-</a>
-<a href="https://fb.com" target="_blank">
-  <img align="center" src="https://githubusercontent.com" alt="mahmoud m elshaer" height="40" width="40" />
-</a>
-<a href="https://instagram.com" target="_blank">
-  <img align="center" src="https://githubusercontent.com" alt="melshaer_74" height="40" width="40" />
-</a>
-</p>
+
+[![X](https://shields.io)](https://x.com) [![Kaggle](https://shields.io)](https://kaggle.com) [![Facebook](https://shields.io)](https://fb.com) [![Instagram](https://shields.io)](https://instagram.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
