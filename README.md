@@ -13,17 +13,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/melshaer_74" target="_blank">
+<a href="https://x.com" target="_blank">
   <img align="center" src="https://githubusercontent.com" alt="melshaer_74" height="40" width="40" />
 </a>
-<a href="https://kaggle.com/mahmoudmelshaer" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahmoudmelshaer" height="40" width="40" />
+<a href="https://kaggle.com" target="_blank">
+  <img align="center" src="https://githubusercontent.com" alt="mahmoudmelshaer" height="40" width="40" />
 </a>
 <a href="https://fb.com" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud m elshaer" height="40" width="40" />
+  <img align="center" src="https://githubusercontent.com" alt="mahmoud m elshaer" height="40" width="40" />
 </a>
-<a href="https://instagram.com/melshaer_74" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melshaer_74" height="40" width="40" />
+<a href="https://instagram.com" target="_blank">
+  <img align="center" src="https://githubusercontent.com" alt="melshaer_74" height="40" width="40" />
 </a>
 </p>
 
